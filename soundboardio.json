@@ -1,1 +1,180 @@
-
+{
+  "sounds": [
+    {
+      "name": "INTRO-MINIONS",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "INICIO-HISTORIA",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "EFECTO-ERROR-HISTORIA",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "AMBULANCIA-MINIONS",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "MINIONS-RISA-BURLONA",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "MINIONS-PARA-TU",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "BYE-MINIONS",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "INICIO-CONCURSO",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "APLAUSOS-RISAS",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "DIN-CAMPANA",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "GUITARRA-ELECTRICA",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "ENTRADA-SOLDADO",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "ENTRADA-IPHONE",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "ENTRADA-MARIO",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "ENTRADA-APPLEWATCH",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "RISA-BURLONA",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "TRISTE-LANITAS",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "PATO-HULE",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "ENTRADA-BOOZ",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "COLOCAR-LASER",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "LASER-BOOZ",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "LASER-JUGUETES",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "EXPLOSION-LASER",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "BATERIA-CHISTE-MALO",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "ENTRADA-CONEJOS",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "MOSTRARNDO-PILAS",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "DESCARGA-ELECTRICA",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "EXPLOSION-ELECTRICIDAD",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "PENA-ELECTRICIDAD",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "ENTRADA-MIES",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "MIES-HABLA-CREADOR",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "MIES-APAGANDO",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "CUERDA-MIES",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "SOLDADO-HERIDO",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "ENTRADA-CREADOR",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "SALDADO-SANANDO",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "MINIONS-HABLA-1",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "MINIONS-HABLA-2",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "MIONS-PAGA",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "FIN-CONCURSO",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "MAR",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "MIEDO-SALVAR",
+      "file": "ruta/al/sonido2.wav"
+    },
+    {
+      "name": "SALPICADURA-AGUA",
+      "file": "ruta/al/sonido1.mp3"
+    },
+    {
+      "name": "PADRE FIEL",
+      "file": "ruta/al/sonido2.wav"
+    },
+  ]
+}
