@@ -2,7 +2,7 @@
   "sounds": [
     {
       "name": "INTRO-MINIONS",
-      "file": "ruta/al/sonido1.mp3"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/f724fe3fb4c0a9cf284a4cc7ef7fec92077f0665/INTRO%20MINIONS.mp3"
     },
     {
       "name": "INICIO-HISTORIA",
@@ -14,11 +14,11 @@
     },
     {
       "name": "AMBULANCIA-MINIONS",
-      "file": "ruta/al/sonido2.wav"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/Minions%20Bomberos%20BidoBidoBido%20HD%20-%20Ar2k10%20(youtube)%20(mp3cut.net).mp3"
     },
     {
       "name": "MINIONS-RISA-BURLONA",
-      "file": "ruta/al/sonido1.mp3"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/Minions%20-%20Stuart%20%26%20Dave%20_%20official%20teaser%20trailer%20(2015)%20Despicable%20Me%203%20-%20moviemaniacsDE%20(youtube)%20(mp3cut.net).mp3"
     },
     {
       "name": "MINIONS-PARA-TU",
@@ -30,7 +30,7 @@
     },
     {
       "name": "INICIO-CONCURSO",
-      "file": "ruta/al/sonido2.wav"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/M%C3%BAsica%20de%20Carrusel%20de%20Feria%20-%20Creando%20Emociones%20(youtube).mp3"
     },
     {
       "name": "APLAUSOS-RISAS",
@@ -82,11 +82,11 @@
     },
     {
       "name": "LASER-BOOZ",
-      "file": "ruta/al/sonido1.mp3"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/LASER%201.mp3"
     },
     {
       "name": "LASER-JUGUETES",
-      "file": "ruta/al/sonido2.wav"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/LASER%202.mp3"
     },
     {
       "name": "EXPLOSION-LASER",
@@ -98,7 +98,7 @@
     },
     {
       "name": "ENTRADA-CONEJOS",
-      "file": "ruta/al/sonido1.mp3"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/MUSICA%20de%20SAFARI%F0%9F%A6%81%F0%9F%A6%92%F0%9F%A6%93%20_%20sin%20COPYRIGHT%20-%20Todas%20Canciones%20Free%20(youtube)%20(mp3cut.net).mp3"
     },
     {
       "name": "MOSTRARNDO-PILAS",
@@ -138,7 +138,7 @@
     },
     {
       "name": "ENTRADA-CREADOR",
-      "file": "ruta/al/sonido1.mp3"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/Musica%20Instrumental%20-%20La%20Sombra%20del%20Amor%20-%20MrJohannStraussViena%20(youtube)%20(mp3cut.net).mp3"
     },
     {
       "name": "SALDADO-SANANDO",
@@ -146,15 +146,15 @@
     },
     {
       "name": "MINIONS-HABLA-1",
-      "file": "ruta/al/sonido1.mp3"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/MINIONS_%20EL%20ORIGEN%20DE%20GRU%20-%20Tr%C3%A1iler%20Oficial%20(Illumination%20Studios)%20-%20HD%20-%20Illumination%20Spain%20(youtube)%20(mp3cut.net)%20(1).mp3"
     },
     {
       "name": "MINIONS-HABLA-2",
-      "file": "ruta/al/sonido2.wav"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/MINIONS_%20EL%20ORIGEN%20DE%20GRU%20-%20Tr%C3%A1iler%20Oficial%20(Illumination%20Studios)%20-%20HD%20-%20Illumination%20Spain%20(youtube)%20(mp3cut.net).mp3"
     },
     {
       "name": "MIONS-PAGA",
-      "file": "ruta/al/sonido1.mp3"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/Minions%20-%20Stuart%20%26%20Dave%20_%20official%20teaser%20trailer%20(2015)%20Despicable%20Me%203%20-%20moviemaniacsDE%20(youtube)%20(mp3cut.net)%20(1).mp3"
     },
     {
       "name": "FIN-CONCURSO",
@@ -166,7 +166,7 @@
     },
     {
       "name": "MIEDO-SALVAR",
-      "file": "ruta/al/sonido2.wav"
+      "file": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/c0641853043d8c5790508efd3507f97d80b29db8/MISTERIO%20EFECTO%20DE%20SONIDO%20__%20M%C3%BAsica%20de%20SUSPENSO%20__%20Mistery%20Sound%20Effect%20__%20Sin%20COPYRIGHT%20-%20Sonidos%20MP3%20Gratis%20(youtube)%20(mp3cut.net).mp3"
     },
     {
       "name": "SALPICADURA-AGUA",
