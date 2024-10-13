@@ -1,4 +1,5 @@
 {
+  "sounds": [
     {
       "name": "INTRO-MINIONS",
       "file": "https://raw.githubusercontent.com/Daniela1232a/Teatro_31_Iglesia/f724fe3fb4c0a9cf284a4cc7ef7fec92077f0665/INTRO%20MINIONS.mp3"
@@ -175,4 +176,5 @@
       "name": "PADRE FIEL",
       "file": "https://raw.githubusercontent.com/Daniela1232a/Teatro_31_Iglesia/bad740de53c48b6a7156a9fefa6edbbbbb190247/Padre%20Fiel%20l%20Los%20Gigantes%20De%20La%20Fe%20(Gigantes%20Band)%20-%20Los%20Gigantes%20De%20La%20Fe%20(youtube).mp3"
     },
+  ]
 }
