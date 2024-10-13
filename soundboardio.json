@@ -1,8 +1,14 @@
 {
+  "name": "TEATRO",
+  "description": "Sonidos de teatro",
   "sonidos": [
     {
       "name": "INTRO-MINIONS",
-      "url": "https://github.com/Daniela1232a/Teatro_31_Iglesia/blob/e0e2d6a9655559a5a6948bcaa810a5d14bc454e1/sonidos/INTRO%20MINIONS.mp3"
+      "url": "sonidos/INTRO%20MINIONS.mp3"
+    },
+    {
+      "name": "INICIO-HISTORIA",
+      "url": "sonidos/Canción%20de%20cuento%20-%20Inicio%20y%20Final%20-%20MYLITTLECASLTE%20CEI%20(youtube)%20(mp3cut.net)"
     }
   ]
 }
