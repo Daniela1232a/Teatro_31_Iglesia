@@ -4,11 +4,11 @@
   "sonidos": [
     {
       "name": "INTRO-MINIONS",
-      "url": "sonidos/INTRO%20MINIONS.mp3"
+      "url": "INTRO%20MINIONS.mp3"
     },
     {
       "name": "INICIO-HISTORIA",
-      "url": "sonidos/Canción%20de%20cuento%20-%20Inicio%20y%20Final%20-%20MYLITTLECASLTE%20CEI%20(youtube)%20(mp3cut.net)"
+      "url": "Canción%20de%20cuento%20-%20Inicio%20y%20Final%20-%20MYLITTLECASLTE%20CEI%20(youtube)%20(mp3cut.net)"
     }
   ]
 }
